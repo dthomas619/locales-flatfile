@@ -1,0 +1,16 @@
+{
+  "jobs": {
+    "customActions": {
+      "modals": {
+        "confirmModal": {
+          "cancelButton": "Resolve issues"
+        },
+        "outcomeModals": {
+          "acknowledgementModal": {
+            "defaultContinueButton": "Continue & discard"
+          }
+        }
+      }
+    }
+  }
+}
